@@ -4,6 +4,8 @@ import 'package:shared_preferences/shared_preferences.dart';
 import '../screens/profile.dart';
 import '../screens/requestRecipe.dart';
 
+
+/// Drawer component
 class CustomDrawer extends StatefulWidget {
   @override
   _CustomDrawerState createState() => _CustomDrawerState();

@@ -8,6 +8,7 @@ import 'package:flutter_recipe_app/utils/server.dart';
 import 'package:provider/provider.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
 
+/// app main
 Future<void> main() async{
   // Ensure all bindings are initialized
   WidgetsFlutterBinding.ensureInitialized();

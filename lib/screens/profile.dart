@@ -4,6 +4,8 @@ import 'package:flutter_recipe_app/screens/requestRecipe.dart';
 import '../models/recipe.dart';
 import '../utils/server.dart';
 
+
+/// User Profile screen
 class ProfileScreen extends StatefulWidget {
   @override
   _ProfileScreenState createState() => _ProfileScreenState();

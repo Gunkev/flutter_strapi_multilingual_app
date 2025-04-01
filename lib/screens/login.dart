@@ -4,6 +4,8 @@ import 'package:provider/provider.dart';
 import '../utils/server.dart';
 import 'signUp.dart';
 
+
+/// Login with email and password
 class LoginScreen extends StatefulWidget {
   @override
   _LoginScreenState createState() => _LoginScreenState();

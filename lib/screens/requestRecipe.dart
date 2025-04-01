@@ -3,6 +3,8 @@ import 'package:flutter/material.dart';
 import '../models/recipe.dart';
 import '../utils/server.dart';
 
+
+/// Request a recipe
 class RecipeRequestScreen extends StatefulWidget {
   @override
   _RecipeRequestScreenState createState() => _RecipeRequestScreenState();

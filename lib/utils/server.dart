@@ -8,6 +8,8 @@ import 'package:easy_localization/easy_localization.dart';
 import '../models/recipe.dart';
 
 
+
+/// API Services definitions
 class ApiService {
   final String baseUrl = dotenv.env['BASE_URL']!;
   final String registerEndpoint = dotenv.env['USERS_ENDPOINT_REG']!;

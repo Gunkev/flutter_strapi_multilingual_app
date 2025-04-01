@@ -1,6 +1,6 @@
 import 'package:flutter_dotenv/flutter_dotenv.dart';
 
-// models recipe_ request
+///  App models definitions
 class RecipeRequest {
   final int id;
   final String title;

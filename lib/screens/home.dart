@@ -6,6 +6,8 @@ import '../models/recipe.dart';
 import '../utils/server.dart';
 import 'detail.dart';
 
+
+/// Home screen shows list of recipes
 class HomeScreen extends StatefulWidget {
   @override
   _HomeScreenState createState() => _HomeScreenState();

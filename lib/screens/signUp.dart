@@ -4,6 +4,8 @@ import 'package:provider/provider.dart';
 import '../utils/server.dart';
 import 'login.dart';
 
+
+/// Register a new user
 class RegisterScreen extends StatefulWidget {
   @override
   _RegisterScreenState createState() => _RegisterScreenState();

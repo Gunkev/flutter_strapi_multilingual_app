@@ -5,6 +5,8 @@ import 'package:shared_preferences/shared_preferences.dart';
 import '../models/recipe.dart';
 import '../utils/server.dart';
 
+
+/// Recipe detail screen view
 class RecipeDetailPage extends StatefulWidget {
   final Recipe recipe;
 
